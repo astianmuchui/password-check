@@ -2,5 +2,5 @@
 A simple safaricom-like password checking function
 
 
-Note::
+Note:
 not 100% complete.
